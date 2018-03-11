@@ -1,6 +1,8 @@
 import React from 'react'
 import { render } from 'react-dom'
 
+import './scss/style.scss'
+
 const App = () => (
   <div>
     <h1>Hello Parcel!</h1>
