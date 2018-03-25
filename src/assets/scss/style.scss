@@ -1,0 +1,15 @@
+@import "./variables";
+
+body {
+  background-color: $c-primary;
+  color: white;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+img {
+  max-width: 100%;
+}

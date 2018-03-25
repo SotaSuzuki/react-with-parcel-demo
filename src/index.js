@@ -1,7 +1,10 @@
 import React from 'react'
 import { render } from 'react-dom'
+import { hello } from './modules/helloworld'
 
-import './scss/style.scss'
+import './assets/scss/style.scss'
+
+hello()
 
 const App = () => (
   <div>
